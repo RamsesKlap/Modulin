@@ -1,0 +1,2 @@
+../Drivers/logging/logs.c:6:6:LogWrite	1
+../Drivers/logging/logs.c:28:13:WriteLogFile	1
